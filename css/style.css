@@ -52,9 +52,9 @@
         align-items: center;
         flex-direction: column;
         position: relative;
-        background-color: #003da5;
+        background-color: #e7e9ec00;
         bottom: initial;
-        left: 0;
+        left: -30px;
     }
   }
 
